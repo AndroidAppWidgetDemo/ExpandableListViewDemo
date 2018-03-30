@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/res/merged/debug/layout/expandablelist_child_item.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/src/main/res/layout/expandablelist_child_item.xml"
+    },
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/build/intermediates/res/merged/debug/layout/expandablelist_group_item.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/src/main/res/layout/expandablelist_group_item.xml"
+    },
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/build/intermediates/res/merged/debug/layout/expandablelist_child_item.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/src/main/res/layout/expandablelist_child_item.xml"
+    },
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/res/merged/debug/layout/expandablelist_group_item.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/src/main/res/layout/expandablelist_group_item.xml"
+    },
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/src/main/res/layout/main.xml"
+    }
+]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Grey">#BEBEBE</color>
+    <color name="LightGray">#D3D3D3</color>
+    <string name="activity_main">MainActivity</string>
+    <string name="app_name">可展开的列表</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

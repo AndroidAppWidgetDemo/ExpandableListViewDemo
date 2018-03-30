@@ -1,0 +1,4 @@
+#Tue Mar 27 14:59:56 CST 2018
+base.0=/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+renamed.0=classes.dex
+file.0=/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

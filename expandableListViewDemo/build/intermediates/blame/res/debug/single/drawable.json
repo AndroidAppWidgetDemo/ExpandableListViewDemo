@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/build/intermediates/res/merged/debug/drawable/expandablelist_child_item_selector.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/src/main/res/drawable/expandablelist_child_item_selector.xml"
+    },
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/build/intermediates/res/merged/debug/drawable/expandablelist_group_item_selector.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/src/main/res/drawable/expandablelist_group_item_selector.xml"
+    },
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/res/merged/debug/drawable/expandablelist_group_item_selector.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/src/main/res/drawable/expandablelist_group_item_selector.xml"
+    },
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/build/intermediates/res/merged/debug/drawable/child_divider_bg.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/ExpandListViewDemo/expandableListViewDemo/src/main/res/drawable/child_divider_bg.xml"
+    },
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/res/merged/debug/drawable/expandablelist_child_item_selector.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/src/main/res/drawable/expandablelist_child_item_selector.xml"
+    },
+    {
+        "merged": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/res/merged/debug/drawable/child_divider_bg.xml",
+        "source": "/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/src/main/res/drawable/child_divider_bg.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Mar 27 14:59:56 CST 2018
+base.0=/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_69f0294a259c5d596d0f41df7bb24f1000391cfb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b931f418107f3c31b0558c1ac59028f4e52f771/classes.dex
+base.1=/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4b931f418107f3c31b0558c1ac59028f4e52f771
+file.0=/Users/xiaxveliang/a_Work/WorkSpack/ws/Android_Test/expandableListViewDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_69f0294a259c5d596d0f41df7bb24f1000391cfb/classes.dex
